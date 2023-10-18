@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "通讯录管理系统", "通讯录管理系统.vcxproj", "{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "通讯录管理系统 封装版", "..\通讯录管理系统 封装版\通讯录管理系统 封装版.vdproj", "{BE10F7C8-BFD6-4CCE-BF0E-EB7768520F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Debug|x64.ActiveCfg = Debug|x64
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Debug|x64.Build.0 = Debug|x64
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Debug|x86.ActiveCfg = Debug|Win32
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Debug|x86.Build.0 = Debug|Win32
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Release|x64.ActiveCfg = Release|x64
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Release|x64.Build.0 = Release|x64
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Release|x86.ActiveCfg = Release|Win32
+		{A92E4DEA-E8FB-4F55-9A4F-2A7D67FDB1C7}.Release|x86.Build.0 = Release|Win32
+		{BE10F7C8-BFD6-4CCE-BF0E-EB7768520F0B}.Debug|x64.ActiveCfg = Debug
+		{BE10F7C8-BFD6-4CCE-BF0E-EB7768520F0B}.Debug|x86.ActiveCfg = Debug
+		{BE10F7C8-BFD6-4CCE-BF0E-EB7768520F0B}.Release|x64.ActiveCfg = Release
+		{BE10F7C8-BFD6-4CCE-BF0E-EB7768520F0B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484856A7-78F9-4957-8AD9-3506B9B7BCB7}
+	EndGlobalSection
+EndGlobal
